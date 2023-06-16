@@ -1,16 +1,4 @@
-# Phase 4, Lecture 5: Relationships, Association Proxy, and SerializerMixin
-
-## Lecture Topics
-
-- db.relationship
-- db.ForeignKey
-- association_proxy
-- SerializerMixin
-- serialize_rules
-
-## Introduction
-
-In today's lecture, we will talk about using db.relationship and db.ForeignKey to create relationships between tables, Association Proxy, and SerializerMixin.
+# Phase 4 - Example Project with Hotels, Customers, & Reviews database and API
 
 ## Setup
 
